@@ -1,4 +1,4 @@
-<h2 align="center">A progressive <a href="https://ecommdaddy.com/" target="_blank">Next-Generation eCommerce Mobile App</a><br/> Get a Robust eCommerce Mobile App for Your Unique Brand.</h2>
+<h2 align="center">A progressive <a href="https://ecommdaddy.com/" target="_blank">Next-Generation eCommerce Mobile App</a><br/> Get a Robust eCommerce Mobile App for Your Unique Brand.</h2><br/>
 
 
 <p align="center">
@@ -12,14 +12,14 @@
     </tr>
 </table>
   
-</p>
+</p><br/>
 
 <div align="center" style="flex">
 
 <table>
      <tr>
         <td>
-            <img src="./seo-friendly.svg" alt="Health" width="200" /> 
+            <img src="./seo-friendly.svg" alt="Health" width="300" /> 
         </td>
          <td>
              <p>
@@ -42,9 +42,9 @@
 </div>
 
 <p align="center">
-  <a href="http://looksandbeauty.com/" target="blank"><img src="./food-box.svg" width="200" alt="Template" /></a>
-</p>
+  <a href="http://looksandbeauty.com/" target="blank"><img src="./food-box.svg" width="80%" alt="Template" /></a>
+</p><br/>
 
 <p align="center">
-  <a href="http://looksandbeauty.com/" target="blank"><img src="./look-and-beauty.png" width="80" alt="logo" /></a>
+  <a href="http://looksandbeauty.com/" target="blank"><img src="./look-and-beauty.png" width="100" alt="logo" /></a>
 </p>
