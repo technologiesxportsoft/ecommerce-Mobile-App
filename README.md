@@ -2,8 +2,8 @@
 
 
 <p align="center">
-<table>
-    <tr>
+<table align="center">
+    <tr align="center">
         <td>
             <a href="http://looksandbeauty.com/" target="blank"><img src="./login.png" width="400" alt="Template" /></a></td>
         <td>
